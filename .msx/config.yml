@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Field-Service Workflow & Communication Suite
+slug: field-service-workflow-communi
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: field-service-workflow-communi.msx.dev
